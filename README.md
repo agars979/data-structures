@@ -14,7 +14,3 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 Happy coding!
 
 # data-structures
-# data-structures
-# data-structures-1
-# data-structures-1
-# data-structures-1
