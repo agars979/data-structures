@@ -1,0 +1,134 @@
+[
+    {
+        "address": "701 West 168th Street @ Fort Washington Avenue,",
+        "title": "A NEW WAY OF LIVING - A New Way Of Living",
+        "hours": "Thursdays From  12:00 PM to 1:00 PM Meeting Type S = Step meeting\nFridays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober\nMondays From  12:00 PM to 1:00 PM Meeting Type BB = Big Book meeting\nTuesdays From  12:00 PM to 1:00 PM Meeting Type B = Beginners meeting\nWednesdays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:I) - Bridge To Sobriety",
+        "hours": "Mondays From  10:00 AM to 11:00 AM Meeting Type OD = Open Discussion meeting\nTuesdays From  10:00 AM to 11:00 AM Meeting Type B = Beginners meeting Special Interest Living Sober\nWednesdays From  10:00 AM to 11:00 AM Meeting Type BB = Big Book meeting\nThursdays From  10:00 AM to 11:00 AM Meeting Type S = Step meeting\nFridays From  10:00 AM to 11:00 AM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "BRIDGE TO SOBRIETY (:II) -",
+        "hours": "Sundays From  10:00 AM to 11:00 AM Meeting Type S = Step meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "431 West 204th Street, Basement,",
+        "title": "DYCKMAN - Dyckman",
+        "hours": "Sundays From  12:00 PM to 1:00 PM Meeting Type O = Open meeting\nWednesdays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "550 West 155th Street, 2nd Floor Guild Room,",
+        "title": "FOUND-A-WAY - Found-A-Way",
+        "hours": "Saturdays From  12:30 PM to 2:00 PM Meeting Type C = Closed Discussion meeting Special Interest Gay Men",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "557 West 156th Street,",
+        "title": "GRUPO DESPERTAR - Grupo Despertar",
+        "hours": "Wednesdays From  8:00 PM to 10:00 PM Meeting Type C = Closed Discussion meeting\nFridays From  8:00 PM to 10:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "35 Thayer Street, Basement,",
+        "title": "GRUPO LA FLAMA PANAMERICANA - Grupo La Flama Panamericana",
+        "hours": "Sundays From  5:00 PM to 7:00 PM Meeting Type O = Open meeting\nTuesdays From  8:00 PM to 10:00 PM Meeting Type O = Open meeting\nThursdays From  8:00 PM to 10:00 PM Meeting Type O = Open meeting\nSaturdays From  8:00 PM to 10:00 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "715 West 179th Street, 1st Floor,",
+        "title": "GRUPO LIBERTAD - Grupo Libertad",
+        "hours": "Tuesdays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting\nThursdays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting\nThursdays From  9:30 PM to 10:30 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  9:30 PM to 10:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "502 West165th Street, Basement,",
+        "title": "GRUPO RECUPERACION - Grupo Recuperacion",
+        "hours": "Sundays From  2:30 PM to 3:30 PM Meeting Type O = Open meeting\nTuesdays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting\nThursdays From  8:00 PM to 9:00 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "91 Arden Street,",
+        "title": "GRUPO UN NUEVO AMANECER - Grupo Un Nuevo Amanecer",
+        "hours": "Mondays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting\nFridays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "20 Cumming Street,",
+        "title": "HAPPY DESTINY -",
+        "hours": "Sundays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual\nWednesdays From  7:30 PM to 8:30 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "84 Vermilyea Avenue,",
+        "title": "INWOOD FORT TRYON - Inwood-Ft. Tryon",
+        "hours": "Saturdays From  11:00 AM to 12:00 PM Meeting Type B = Beginners meeting\nSaturdays From  11:00 AM to 12:00 PM Meeting Type C = Closed Discussion meeting\nTuesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "620 Isham Street,",
+        "title": "ISHAM PARK - Isham Park",
+        "hours": "Mondays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "2005 Amsterdam Avenue,",
+        "title": "PROGRESS NOT PERFECTION -",
+        "hours": "Fridays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor (Lorenz Library),",
+        "title": "THE MEN UPSTAIRS -",
+        "hours": "Mondays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting Special Interest Men",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor,",
+        "title": "THE MISSING LINK - Missing Link",
+        "hours": "Fridays From  7:00 PM to 8:00 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "91 Arden Street,",
+        "title": "UPPER MANHATTAN - Upper Manhattan",
+        "hours": "Thursdays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "20 Cummings Street,",
+        "title": "UPTOWN SATURDAY NIGHT - Uptown Saturday Night",
+        "hours": "Saturdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "715 West 179th Street,",
+        "title": "WASHINGTON HEIGHTS                  (:I) - Washington Heights    (:I)",
+        "hours": "Tuesdays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "189th Street & Bennett Avenue, Kitchen,",
+        "title": "WASHINGTON HEIGHTS                 (:II) - Washington Heights    (:II)",
+        "hours": "Thursdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "178 Bennett Avenue, 2nd Floor,",
+        "title": "WHAT WE ARE LIKE NOW -",
+        "hours": "Sundays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "178 Bennett Avenue, Kitchen,",
+        "title": "WOMEN'S NITE - Women's Nite",
+        "hours": "Mondays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": false
+    }
+]

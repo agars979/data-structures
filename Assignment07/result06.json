@@ -1,0 +1,380 @@
+[
+    {
+        "address": "207 West 96th Street, Basement,",
+        "title": "A NEW DAY - A New Day",
+        "hours": "Mondays From  3:00 PM to 4:00 PM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It\nWednesdays From  3:00 PM to 4:00 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "120 West 69th Street, Basement,",
+        "title": "A VISION FOR YOU - A Vision For You",
+        "hours": "Fridays From  7:45 PM to 8:45 PM Meeting Type OD = Open Discussion meeting\nFridays From  9:00 PM to 10:00 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "422 West 57th Street,",
+        "title": "AFTER EIGHT (:i) - After Eight",
+        "hours": "Tuesdays From  6:30 PM to 7:45 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "164 West 74th Street, 1st floor,",
+        "title": "AFTER EIGHT (:ii) -",
+        "hours": "Thursdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting Special Interest AA Literature",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "207 West 96th Street, Little Room Basement,",
+        "title": "ALTERED ATTITUDES - Altered Attitudes",
+        "hours": "Fridays From  9:30 PM to 10:30 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "144 West 90th Street, Basement,",
+        "title": "AMSTERDAM - Amsterdam",
+        "hours": "Saturdays From  1:00 PM to 2:30 PM Meeting Type B = Beginners meeting\nSaturdays From  2:30 PM to 4:00 PM Meeting Type O = Open meeting\nMondays From  4:00 PM to 5:30 PM Meeting Type BB = Big Book meeting\nTuesdays From  4:00 PM to 5:30 PM Meeting Type OD = Open Discussion meeting\nWednesdays From  4:00 PM to 5:30 PM Meeting Type O = Open meeting Special Interest Living Sober\nFridays From  4:00 PM to 5:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "141 West 73rd Street,",
+        "title": "ANSONIA - Ansonia",
+        "hours": "Mondays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "4 West 76th Street. Meeting in the gym.,",
+        "title": "ATLANTIC WEST STEP & TRADITION - Atlantic West Step & Tradition",
+        "hours": "Fridays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "221 West 107th Street, Basement,",
+        "title": "BLOOMINGDALE - Bloomingdale",
+        "hours": "Tuesdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting\nTuesdays From  7:30 PM to 8:30 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "BROADWAY AT 96TH - Broadway At 96th",
+        "hours": "Mondays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting\nFridays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "215 West 82nd Street,",
+        "title": "CADILLACS FOR EVERYONE - Cadillacs For Everyone",
+        "hours": "Thursdays From  7:00 PM to 8:00 PM Meeting Type OD = Open Discussion meeting Special Interest Men",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "601 West 114th Street, (2nd Red Door),",
+        "title": "CAMPUS CHEER - Campus Cheer",
+        "hours": "Tuesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting\nThursdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "Central Park West & 76th Street - basement gymnasium,",
+        "title": "CENTRAL PARK WEST - Central Park West",
+        "hours": "Tuesdays From  8:15 PM to 9:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "5 West 63rd Street, Downstairs in large meeting room.,",
+        "title": "CHELSEA RIVERSIDE -",
+        "hours": "Mondays From  7:30 PM to 8:45 PM Meeting Type O = Open meeting\nMondays From  9:00 PM to 10:00 PM Meeting Type B = Beginners meeting\nMondays From  10:15 PM to 11:15 PM Meeting Type C = Closed Discussion meeting Special Interest Topic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "4 West 76th Street, (In the gym),",
+        "title": "CHOCK FULL OF SOBRIETY -",
+        "hours": "Fridays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "160 Central Park West, Gym basement.,",
+        "title": "CLASSEN HALL     (:II) - Classen Hall    (:II)",
+        "hours": "Sundays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "152 West 66th Street, Basement Level Chapel,",
+        "title": "CLASSEN HALL STEP MEETING  ( :I ) - Classen Hall",
+        "hours": "Sundays From  6:15 PM to 7:45 PM Meeting Type S = Step meeting Special Interest Twelve Steps",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "3 West 95th Street, Lower Level Auditorium,",
+        "title": "COLUMBUS AT FIVE - Columbus At Five",
+        "hours": "Saturdays From  5:00 PM to 6:00 PM Meeting Type C = Closed Discussion meeting Special Interest Children Welcome\nSundays From  5:00 PM to 6:00 PM Meeting Type C = Closed Discussion meeting Special Interest Children Welcome\nFridays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Topic",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "251 West 80th Street,",
+        "title": "EIGHTIETH STREET BEGINNERS -",
+        "hours": "Fridays From  7:30 PM to 8:45 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "111 West 71st Street,",
+        "title": "FAST BREAK - Fast Break",
+        "hours": "Fridays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting\nMondays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:00 AM to 8:00 AM Meeting Type S = Step meeting\nFridays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting\nMondays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting\nThursdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "5 West 63rd Street, 1st Floor,",
+        "title": "FAST BREAK WEEKEND -",
+        "hours": "Sundays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "5 West 63rd Street,",
+        "title": "FIRESIDE  (:II)  WEEKEND MEETINGS ONLY -",
+        "hours": "Saturdays From  10:30 AM to 11:30 AM Meeting Type S = Step meeting Special Interest First Step Workshop\nSundays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting\nSaturdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "FIRST THINGS FIRST - First Things First",
+        "hours": "Mondays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It\nWednesdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting\nSaturdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It\nThursdays From  6:00 AM to 7:00 AM Meeting Type S = Step meeting Special Interest As Bill Sees It\nSundays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It\nTuesdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It\nFridays From  6:00 AM to 7:00 AM Meeting Type BB = Big Book meeting\nFridays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nWednesdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nSaturdays From  7:15 AM to 8:15 AM Meeting Type S = Step meeting\nMondays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nThursdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nSundays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nTuesdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting\nFridays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nWednesdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nSaturdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nMondays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nThursdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nSundays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nTuesdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting\nTuesdays From  10:15 AM to 11:15 AM Meeting Type C = Closed Discussion meeting Special Interest Living Sober\nFridays From  10:15 AM to 11:15 AM Meeting Type BB = Big Book meeting\nWednesdays From  10:15 AM to 11:15 AM Meeting Type S = Step meeting\nSaturdays From  10:15 AM to 11:15 AM Meeting Type S = Step meeting\nMondays From  10:15 AM to 11:15 AM Meeting Type C = Closed Discussion meeting Special Interest Promises\nThursdays From  10:15 AM to 11:15 AM Meeting Type OD = Open Discussion meeting\nSundays From  10:15 AM to 11:15 AM Meeting Type T = Tradition meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "26 West 84th Street,",
+        "title": "FRIDAY NIGHT STEP -",
+        "hours": "Fridays From  6:30 PM to 7:45 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "200 West 97th Street, Basement,",
+        "title": "GRUPO CAMINO REAL - Grupo Camino Real",
+        "hours": "Sundays From  4:30 PM to 5:30 PM Meeting Type OD = Open Discussion meeting\nThursdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "218 West 108th Street, Main Floor,",
+        "title": "GRUPO DULCES 24 - Grupo Dulces 24",
+        "hours": "Mondays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting\nWednesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting\nSundays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "125 West 104th Street, 1st Floor,",
+        "title": "GRUPO LUZ DIVINA -",
+        "hours": "Tuesdays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "141 West 73rd Street,",
+        "title": "HARGRAVE - Hargrave House",
+        "hours": "Thursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nFridays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nThursdays From  8:15 PM to 9:15 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "236 West 73rd Street,  5th Floor,",
+        "title": "LAMBDA WEST - Lambda West",
+        "hours": "Saturdays From  6:00 PM to 7:00 PM Meeting Type S = Step meeting Special Interest Gay, Lesbian and Bisexual\nWednesdays From  6:00 PM to 7:00 PM Meeting Type OD = Open Discussion meeting Special Interest Interpreted for the Deaf\nWednesdays From  7:15 PM to 8:15 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual\nWednesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "165 West 105th Street, Basement,",
+        "title": "MANHATTAN VALLEY - Manhattan Valley",
+        "hours": "Wednesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street,",
+        "title": "METROPOLIS MEN'S MEETING -",
+        "hours": "Sundays From  5:45 PM to 7:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "MID-DAY CHEER - Mid-Day Cheer",
+        "hours": "Fridays From  1:00 PM to 2:00 PM Meeting Type S = Step meeting\nMondays From  1:00 PM to 2:15 PM Meeting Type S = Step meeting Special Interest Meditation\nTuesdays From  1:00 PM to 2:15 PM Meeting Type BB = Big Book meeting\nWednesdays From  1:00 PM to 2:15 PM Meeting Type OD = Open Discussion meeting\nThursdays From  1:00 PM to 2:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "2504 Broadway,  Basement,",
+        "title": "MORNINGSIDE - Morningside",
+        "hours": "Saturdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting\nSaturdays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting\nSaturdays From  8:00 PM to 9:00 PM Meeting Type S = Step meeting\nSaturdays From  9:15 PM to 10:15 PM Meeting Type OD = Open Discussion meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "405 West 114th Street, Merton Room,",
+        "title": "MORNINGSIDE HEIGHTS BEGINNERS -",
+        "hours": "Wednesdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting\nFridays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "368 West End Ave, 1st floor,",
+        "title": "NEVER TOO LATE - Never Too Late",
+        "hours": "Tuesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "225 West 99th Street, 1st Floor,",
+        "title": "NIGHT LIGHT - Night Light",
+        "hours": "Mondays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "251 West 100th Street,",
+        "title": "NIGHT LIGHT BEGINNERS - Night Light Beginners",
+        "hours": "Thursdays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "NINETY-SIXTH STREET WORKSHOP - Ninety-Sixth Street Workshop",
+        "hours": "Sundays From  10:00 PM to 11:00 PM Meeting Type T = Tradition meeting\nMondays From  10:00 PM to 11:00 PM Meeting Type BB = Big Book meeting\nTuesdays From  10:00 PM to 11:00 PM Meeting Type S = Step meeting\nWednesdays From  10:00 PM to 11:00 PM Meeting Type BB = Big Book meeting\nThursdays From  10:00 PM to 11:00 PM Meeting Type B = Beginners meeting\nSaturdays From  10:00 PM to 11:00 PM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It\nFridays From  11:00 PM to 12:00 AM Meeting Type C = Closed Discussion meeting Special Interest Promises",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "26 West 84th Street,",
+        "title": "OXFORD  (:I) - Oxford",
+        "hours": "s From  12:00 AM to 12:00 AM\nMondays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting Special Interest Interpreted for the Deaf\nWednesdays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting Special Interest Interpreted for the Deaf\nThursdays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "5 West 63rd Street, Basement, Room D,",
+        "title": "PROMISES PROMISES - Promises Promises",
+        "hours": "Saturdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "552 West End Avenue, Basement,",
+        "title": "RENEWAL WEST - Renewal West",
+        "hours": "Sundays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "164 West 74 Street, 1st Floor, (ask at Front Desk),",
+        "title": "ROUTES -",
+        "hours": "Saturdays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting\nTuesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "340 West 85th Street, Basement,",
+        "title": "RUDE AWAKENING - Rude Awakening",
+        "hours": "Wednesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "368 West End Avenue, 1st Floor,",
+        "title": "SMITHEREENS - Smithereens",
+        "hours": "Wednesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nWednesdays From  8:15 PM to 9:15 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "SOBER STEPPING - Sober Stepping",
+        "hours": "Saturdays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting Special Interest Promises",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "5 West 63rd Street,",
+        "title": "SUNDAY MEN'S TOPIC - Sunday Men's Topic",
+        "hours": "Sundays From  10:30 AM to 11:30 AM Meeting Type C = Closed Discussion meeting Special Interest Men",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "131 West 72nd Street, 3rd Floor, Room #2F,",
+        "title": "SUNDAY WEST - Sunday West",
+        "hours": "Sundays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "TURN IT OVER - Turn It Over",
+        "hours": "Thursdays From  3:30 PM to 4:30 PM Meeting Type B = Beginners meeting\nTuesdays From  3:30 PM to 4:30 PM Meeting Type B = Beginners meeting\nTuesdays From  4:30 PM to 5:30 PM Meeting Type C = Closed Discussion meeting\nThursdays From  4:30 PM to 5:30 PM Meeting Type C = Closed Discussion meeting\nFridays From  4:30 PM to 5:30 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "152 West 71st Street, Ring Bell,",
+        "title": "WAY OF LIFE - Way Of Life",
+        "hours": "Saturdays From  10:00 AM to 11:00 AM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It\nSaturdays From  11:15 AM to 12:15 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "30 West 68th Street,  Check security desk for Room #,",
+        "title": "WE AGNOSTICS OF NYC - We Agnostics Of NYC",
+        "hours": "Thursdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting Special Interest Agnostic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "WE ARE NOT DOCTORS (WESTSIDE) -",
+        "hours": "Wednesdays From  4:45 PM to 5:45 PM Meeting Type OD = Open Discussion meeting Special Interest Medication",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "263 West 86th Street,  1st Floor,",
+        "title": "WEST END - West End",
+        "hours": "Thursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nThursdays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting\nTuesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting\nTuesdays From  7:00 PM to 8:00 PM Meeting Type BB = Big Book meeting",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "306 West 102nd Street, 2nd Floor,",
+        "title": "WESTSIDE 11th STEP MEDITATION WORKSHOP - Westside 11th Step Meditation Workshop",
+        "hours": "Wednesdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WESTSIDE STEP - Westside Step",
+        "hours": "Fridays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "26 West 84th Street, Stanford Room (blue door),",
+        "title": "WESTSIDE YOUNG PEOPLE - Westside Young People",
+        "hours": "Saturdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting Special Interest Young People",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "595 Columbus Avenue,",
+        "title": "WITHOUT A PRAYER -",
+        "hours": "Saturdays From  5:00 PM to 6:00 PM Meeting Type OD = Open Discussion meeting Special Interest Agnostic",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "306 West 102nd Street, 2nd Floor,",
+        "title": "WOMEN LIVING SOBER - Women Living Sober",
+        "hours": "Wednesdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting Special Interest Women\nSaturdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "213 West 82nd Street,",
+        "title": "WOMEN WEST AA - Women West AA",
+        "hours": "Fridays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WOMEN'S BEGINNING LITERATURE -",
+        "hours": "Thursdays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting Special Interest Women\nMondays From  12:00 PM to 1:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women\nWednesdays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "152 west 71st street,",
+        "title": "WOMEN'S ELEVENTH STEP MEETING -",
+        "hours": "Mondays From  12:00 PM to 1:00 PM Meeting Type OD = Open Discussion meeting Special Interest Women",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "152 West 71st Street,",
+        "title": "WOMEN'S TELL IT LIKE IT IS - Women's Tell It Like It Is",
+        "hours": "Mondays From  12:00 PM to 1:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": true
+    },
+    {
+        "address": "160 Central Park West, Downstairs,",
+        "title": "WOMEN'S WESTSIDE TOPIC - Women's Westside Topic",
+        "hours": "Tuesdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting Special Interest Women",
+        "wheelchairAccess": false
+    },
+    {
+        "address": "207 West 96th Street, Basement, Little Room,",
+        "title": "WRITING SOBER - Writing Sober",
+        "hours": "Wednesdays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting Special Interest Special Purpose Groups",
+        "wheelchairAccess": false
+    }
+]
