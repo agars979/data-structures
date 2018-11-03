@@ -56,7 +56,25 @@ This function converts the addresses from the TDs to text
         return string.length > 0;
     });
         
-    var hours = secondTDElementLinesArray.join("\n");
+    var day = secondTDElementLinesArray.join("\n").split(" ")[0];
+    console.log(day);
+    
+    var startTime = secondTDElementLinesArray.join("\n").split(" ")[3].each(function(i, elem) + " " + secondTDElementLinesArray.join("\n").split(" ")[4].each(function(i, elem);
+   
+    var endTime = secondTDElementLinesArray.join("\n").split(" ")[6].each(function(i, elem) + " " + secondTDElementLinesArray.join("\n").split(" ")[7].each(function(i, elem);
+    
+    // var meetingTypeA = secondTDElementLinesArray.join("\n").split("Meeting")[1];
+    // var meetingType = meetingTypeA.split("meeting")[0];
+    // console.log(meetingType);
+    
+    // if(meetingType == undefined) {
+    //  return '';
+    //  } else {
+    //   return  meetingType;
+    //  }
+    
+    var meetingType = secondTDElementLinesArray.join("\n").split("Meeting").pop().each(function(i, elem);
+    
     
     var wheelchairImage = cheerioTRElement.find("img");
     
@@ -74,7 +92,9 @@ This function converts the addresses from the TDs to text
     return {
         address: address,
         title: title,
-        hours: hours,
+        day: day,
+        startTime: startTime,
+        endTime: endTime,
         wheelchairAccess: wheelchairAccess 
     };
 }

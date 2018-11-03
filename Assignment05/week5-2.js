@@ -7,7 +7,7 @@ AWS.config.region = "us-east-1";
 var dynamodb = new AWS.DynamoDB();
 
 var myItem = {
-  pk: {
+  sk: {
     S: "10 Oct, 2018"
   },
   name: {
@@ -29,7 +29,7 @@ var myItem = {
       },
     }
   },
-  sk: {
+  pk: {
     S: "Main Course"
   },
   time: {
