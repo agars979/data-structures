@@ -1,18 +1,22 @@
 var request = require('request'); // npm install request
 var async = require('async'); // npm install async
 var fs = require('fs');
+
  var apiKey = process.env.TAMU_KEY; 
+ 
  var meetingsData = [];
-var meetings = require("../Assignment07/result01.json");
+var meetings = require("../Assignment07/result03.json");
+ 
  // eachSeries in the async module iterates over an array and operates on each item in the array in series
+
 async.eachSeries(
     meetings,
     
     function(value, callback) {
         var address = value.address.split(",")[0];
-        
+        console.log(address);
         var apiRequest = 'https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderWebServiceHttpNonParsed_V04_01.aspx?';
-        apiRequest += 'address=' + address.split(' ').join('%20');
+        apiRequest += 'streetAddress=' + address.split(' ').join('%20');
         apiRequest += '&city=New%20York&state=NY&apikey=' + apiKey;
         apiRequest += '&format=json&version=4.01';
         
@@ -40,9 +44,9 @@ async.eachSeries(
     }, 
     
     function() {
-        fs.writeFileSync('georesult01.json', JSON.stringify(meetingsData));
+        fs.writeFileSync('georesult03.json', JSON.stringify(meetingsData));
         console.log('*** *** *** *** ***');
         console.log('Number of meetings in this zone: ');
         console.log(meetingsData.length);
     }
-); 
+);
