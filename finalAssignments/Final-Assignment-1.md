@@ -1,6 +1,6 @@
-#AA Meetings
+# AA Meetings
 
-To view the working aa map click [here](http://18.222.188.125:8080/aa)
+## To view the working aa map click [here](http://18.222.188.125:8080/aa)
 
 To achieve this result we went through various processes.
 
@@ -27,4 +27,4 @@ Once the data-base was ready, we created the qyery to search for data relevant t
 
 Finally using the DB and query we transferred this information visually using Leaflet to create the map css.
 
-[javascript file used for map visualisation](https://github.com/agars979/data-structures/blob/master/finalAssignments/Final-Assignment-1.md)
+[javascript file used for map visualisation](https://github.com/agars979/data-structures/blob/master/finalAssignments/server.js)
